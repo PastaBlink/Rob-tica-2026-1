@@ -1,1 +1,0 @@
-/home/robousr/Robotica-2026-2/proyecto/xy/build/example_interfaces/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake

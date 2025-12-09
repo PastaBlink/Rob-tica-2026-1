@@ -1,1 +1,0 @@
-/home/robousr/Robotica-2026-2/proyecto/xyz/src/example_control/setup.py

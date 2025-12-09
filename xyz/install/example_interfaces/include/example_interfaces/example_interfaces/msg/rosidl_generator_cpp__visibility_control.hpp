@@ -1,1 +1,0 @@
-/home/robousr/Robotica-2026-2/proyecto/xyz/build/example_interfaces/rosidl_generator_cpp/example_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp

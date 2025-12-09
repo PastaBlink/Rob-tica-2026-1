@@ -1,1 +1,0 @@
-/home/robousr/Robotica-2026-2/proyecto/xy/src/example_bringup/setup.py

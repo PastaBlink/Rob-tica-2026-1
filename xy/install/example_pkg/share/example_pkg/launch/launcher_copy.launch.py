@@ -1,1 +1,0 @@
-/home/robousr/Robotica-2026-2/proyecto/xy/build/example_pkg/launch/launcher_copy.launch.py
