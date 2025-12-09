@@ -1,6 +1,6 @@
-# Robotica-2026-1
+# Robótica-2026-1
 
-## Descripcion
+## Descripción
 > Este repositorio sirve para guardar el proyecto realizado
 
 ## Integrantes
